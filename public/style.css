@@ -1,0 +1,38 @@
+.container1{
+    width: 100%;
+    height: 65%;
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 70px;
+    padding:0px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    border:2px solid rgb(224, 137, 137);
+
+}
+
+.col-1 {
+    width: 50%;
+    background-color:rgb(57, 140, 173);
+    border: 2px solid rgb(11, 11, 34);
+}
+
+.col-2{
+    width: 50%;
+    background-color: rgb(57, 136, 167);
+    border: 2px solid rgb(20, 20, 56);
+}
+
+.row1{
+    color: white;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
